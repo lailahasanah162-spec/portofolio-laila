@@ -2,10 +2,10 @@
 NIM: 101012500296  
 Telkom University – Teknik Telekomunikasi  
 
-Repository ini berisi perjalanan belajar saya di bidang:
-- Software Development  
-- IoT (Internet of Things)  
-- Telekomunikasi  
+Repository ini berisi dokumentasi perjalanan belajar saya dalam bidang teknologi dan pemrograman. Beberapa topik yang sedang saya pelajari antara lain:
 
-Saat ini saya masih tahap awal belajar dan akan terus mengembangkan
-isi repository selama semester 2 melalui project dan latihan coding.
+• Software Development
+• Internet of Things (IoT)
+• Teknologi Telekomunikasi
+
+Saat ini saya masih berada pada tahap awal pembelajaran dan akan terus mengembangkan isi repository ini melalui latihan coding, tugas perkuliahan, serta berbagai project kecil selama masa studi.
